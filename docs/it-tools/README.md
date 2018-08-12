@@ -1,3 +1,3 @@
 ## IT Tools
 
-### [CI/CD](docs/it-tools/ci-cd.md)
+### [CI/CD](ci-cd.md)
