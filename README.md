@@ -1,3 +1,1 @@
-# skurtzemann.github.io
-
-* [IT Tools](/docs/it-tools/)
+## [IT Tools](/docs/it-tools/)
