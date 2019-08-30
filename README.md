@@ -1,13 +1,9 @@
 ## Containers
 
-* XX [Understanding Container Standards
-](https://youtu.be/rlj0UZlvGp0)
-
 ### Runtimes
 
 * [A journey from containerization to orchestration and beyond](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/)
 * [Container Tuntime-series](https://www.ianlewis.org/en/tag/container-runtime-series)
-* XX [le-point-sur-les-container-runtimes.html](https://blog.alterway.fr/le-point-sur-les-container-runtimes.html)
 
 
 ---
