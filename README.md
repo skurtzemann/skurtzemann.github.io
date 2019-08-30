@@ -1,1 +1,23 @@
-## [IT Tools](/docs/it-tools/)
+## Containers
+
+* XX [Understanding Container Standards
+](https://youtu.be/rlj0UZlvGp0)
+
+### Runtimes
+
+* [A journey from containerization to orchestration and beyond](https://iximiuz.com/en/posts/journey-from-containerization-to-orchestration-and-beyond/)
+* [Container Tuntime-series](https://www.ianlewis.org/en/tag/container-runtime-series)
+* XX [le-point-sur-les-container-runtimes.html](https://blog.alterway.fr/le-point-sur-les-container-runtimes.html)
+
+
+---
+
+## Kubernetes
+
+### CRI
+
+* [kubernetes-container-runtimes](https://kubedex.com/kubernetes-container-runtimes/)
+
+### Network
+
+* [Comparatif des solutions réseaux](https://www.objectif-libre.com/fr/blog/2018/07/05/comparatif-solutions-reseaux-kubernetes/)
