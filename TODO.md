@@ -9,3 +9,4 @@ K8S & RPI
 * https://www.zenko.io/blog/how-i-made-a-kubernetes-cluster-with-a-couple-of-raspberry-pis/
 * https://blog.alexellis.io/build-your-own-bare-metal-arm-cluster/
 * https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi/
+* https://www.framboise314.fr/un-cluster-de-raspberry-pi-avec-kubernetes/
