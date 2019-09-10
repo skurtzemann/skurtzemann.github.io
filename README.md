@@ -17,3 +17,7 @@
 ### Network
 
 * [Comparatif des solutions réseaux](https://www.objectif-libre.com/fr/blog/2018/07/05/comparatif-solutions-reseaux-kubernetes/)
+
+### Misc
+
+* [Le conteneur "pause"](https://www.ianlewis.org/en/almighty-pause-container)
